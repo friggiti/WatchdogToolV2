@@ -4,14 +4,14 @@ this is a tool made for DoS(Denial-of-Service) by sending requests from UserAgen
 
 # Installation
 steps to install it right:
-bash```git clone https://github.com/friggiti/WatchdogToolV2.git```
-bash```cd WatchdogToolV2```
-bash```pip install -r requirements.txt```
-bash```python main.py```
+```git clone https://github.com/friggiti/WatchdogToolV2.git```
+```cd WatchdogToolV2```
+```pip install -r requirements.txt```
+```python main.py```
 
 # Bonus Installation with PyInstaller
 steps to transform *.py file into *.exe:
 
-  bash```pip install pyinstaller```
+  ```pip install pyinstaller```
   
-  bash```pyinstaller --onefile --noconsole main.py```
+  ```pyinstaller --onefile --noconsole main.py```
